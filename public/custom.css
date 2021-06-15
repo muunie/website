@@ -16,6 +16,10 @@ body {
     background-color: #586cb8;
 }
 
+.bg-static-blurple {
+    background-color: #7289DA;
+}
+
 
 .card-button {
     background-color: #393b3f;
@@ -23,4 +27,8 @@ body {
 
 .card-button:hover {
     background-color: #515255;
+}
+
+.shape-capsule {
+    border-radius: 30px;
 }
